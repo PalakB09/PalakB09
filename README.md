@@ -14,7 +14,7 @@
         <a href="https://www.linkedin.com/in/palak-bakshi">
             <img src="https://img.shields.io/badge/PalakBakshi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
         </a>
-        <a href="https://github.com/PalakBakshi/PalakBakshi" target="_blank">
+        <a href="https://github.com/PalakB09" target="_blank">
             <img src="https://img.shields.io/badge/View%20on%20GitHub-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline"/>
         </a>
     </div>
