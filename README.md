@@ -2,12 +2,13 @@
     <h1>👋 Hi, I'm Palak Bakshi</h1>
     <p align ="center">A passionate tech enthusiast and software developer👩‍💻</p>
 </div>
+<div><br></div>
 <div align="center">
     <h2>🚀 About Me</h2>
     <p>I am a third year computer science student at IGDTUW. I thrive at the intersection of <strong>open source contributions</strong>, the adrenaline of <strong>competitive programming</strong>, and the boundless potential of <strong>machine learning</strong>.  
         When I'm not busy tackling complex algorithms or building user-friendly <strong>full-stack applications</strong>, you'll find me immersed in the pages of a great book, diving into stories and ideas that fuel my creativity. 📚</p>
 </div>
-
+<div><br></div>
 <div align="center">
     <h2 align="center" class="section-heading">🌐 Connect with Me</h2>
     <div align="center">
@@ -19,9 +20,8 @@
         </a>
     </div>
 </div>
-
-<h2 align="center" class="section-heading">💻 Skills</h2>
-<p>Some of the technologies I use:</p>
+<div><br></div>
+<h2 align="center" class="section-heading">💻 Languages and Frameworks</h2>
 <div align="center">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
@@ -33,9 +33,10 @@
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
 </div>
 
-
+<div><br></div>
   <div align="center">
   <h2>📊 My GitHub Stats</h2>
   <p>Check out my GitHub activity and contributions!</p>
