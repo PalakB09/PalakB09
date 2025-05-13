@@ -12,7 +12,7 @@
 <div align="center">
     <h2 align="center" class="section-heading">🌐 Connect with Me</h2>
     <div align="center">
-        <a href="https://www.linkedin.com/in/palak-bakshi">
+        <a href="https://www.linkedin.com/in/palak-bakshi09">
             <img src="https://img.shields.io/badge/PalakBakshi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
         </a>
         <a href="https://github.com/PalakB09" target="_blank">
