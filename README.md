@@ -5,7 +5,7 @@
 <div><br></div>
 <div align="center">
     <h2>🚀 About Me</h2>
-    <p>I am a third year computer science student at IGDTUW. I thrive at the intersection of <strong>open source contributions</strong>, the adrenaline of <strong>competitive programming</strong>, and the boundless potential of <strong>machine learning</strong>.  
+    <p>I am a final year computer science student at IGDTUW. I thrive at the intersection of <strong>open source contributions</strong>, the adrenaline of <strong>competitive programming</strong>, and the boundless potential of <strong>machine learning</strong>.  
         When I'm not busy tackling complex algorithms or building user-friendly <strong>full-stack applications</strong>, you'll find me immersed in the pages of a great book, diving into stories and ideas that fuel my creativity. 📚</p>
 </div>
 <div><br></div>
